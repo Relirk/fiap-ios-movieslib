@@ -15,9 +15,9 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-:iphone: Aplicativo que simula a Pokédex do Pokemon feito para estudo de web services e testes no android | Disciplina de Android da FIAP ministrada em setembro de 2020
+:iphone: Aplicativo de lsitagem de filmes consumindo e convertendo json em classes no iOS | Disciplina de iOS da FIAP ministrada em setembro de 2020
 
-![Pokedex](https://firebasestorage.googleapis.com/v0/b/portifoil-bcd7d.appspot.com/o/projects-screens%2Frelirk_android_pokemon.png?alt=media&token=ebd5a704-0441-4597-b8bc-f7d804c61417)
+![MovieList]()
 
 ### Tools used:
 - [Swift](https://www.apple.com/br/swift/)
