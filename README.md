@@ -15,7 +15,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-:iphone: Aplicativo de lsitagem de filmes consumindo e convertendo json em classes no iOS | Disciplina de iOS da FIAP ministrada em setembro de 2020
+:iphone: Aplicativo de listagem de filmes consumindo e convertendo json em classes no iOS | Disciplina de iOS da FIAP ministrada em setembro de 2020
 
 ![MovieList]()
 
