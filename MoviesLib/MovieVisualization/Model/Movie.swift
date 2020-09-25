@@ -18,8 +18,7 @@ struct Movie: Decodable {
     let image: String?
     
     enum CodingKeys: String, CodingKey {
-        case title = "titulo"
-        case categories, duration, rating, summary, image
+        case title, categories, duration, rating, summary, image
     }
     
     init(from decoder: Decoder) throws {
